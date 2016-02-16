@@ -13,14 +13,15 @@ The folder structure looks like this:
 
 ```
 - Project-Name
--- 00 Archive
--- 01 Research
--- 02 Flow Diagrams
--- 03 Wireframes
--- 04 Prototypes
--- 05 Visual Design
--- 06 Developer Assets
--- 07 Resources
+-- Archive
+-- Copy
+-- Developer Assets
+-- Flow Diagrams
+-- Prototypes
+-- Research
+-- Resources
+-- Visual Design
+-- Wireframes
 -- README.md
 ```
 
