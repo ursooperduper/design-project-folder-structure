@@ -9,14 +9,13 @@
 # - Flow Diagrams
 # - Prototypes
 # - Research
-# - Resources
 # - Visual Design
 # - Wireframes
 # README.md
 
 
 # Access main project directory
-cd ~/Google\ Drive/Design/Projects
+cd ~/Google\ Drive/DS\ Design/Projects
 
 # Create project directory
 mkdir $1
@@ -31,7 +30,6 @@ mkdir Developer\ Assets
 mkdir Flow\ Diagrams
 mkdir Prototypes
 mkdir Research
-mkdir Resources
 mkdir Visual\ Design
 mkdir Wireframes
 touch README.md
